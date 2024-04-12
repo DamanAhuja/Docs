@@ -2,3 +2,30 @@
 ## Installing Unity
 For getting help with installing unity, click [here](https://github.com/DamanAhuja/Security-Audit/blob/main/README.md)
 ## Package Install
+CLick on Windows in the upper bar, then click on package manager
+
+![image](https://github.com/DamanAhuja/Docs/assets/142963733/cb8b477d-31c3-4e28-b010-8e51d3e874eb)
+
+![image](https://github.com/DamanAhuja/Docs/assets/142963733/dd08f5a3-face-4b29-befc-217dd1a0550e)
+
+Then search for Oculus Integration SDK and click on install
+
+![image](https://github.com/DamanAhuja/Docs/assets/142963733/4ba9cf32-2c18-4ef8-b999-101f2baac9e1)
+
+Click on no for this type of pop-up
+
+![image](https://github.com/DamanAhuja/Docs/assets/142963733/de85fe1b-68e4-4c22-9f0f-b85a74acd219)
+## Switching Platform
+Click on File Option and find Build Settings
+
+Set it on Android and click "Switch Platform"
+
+![image](https://github.com/DamanAhuja/Docs/assets/142963733/5578fd15-ecc4-4a57-ba58-6f9dd4be4258)
+
+## Setting up
+Look for this kind of logo in bottom right corner, and click project setup tool
+
+![image](https://github.com/DamanAhuja/Docs/assets/142963733/f3c44569-d8b0-4a68-9097-b5b0afe0e8e3)
+
+Click on Fix all to fix all the issues if any, and apply all to apply all the required settings
+
