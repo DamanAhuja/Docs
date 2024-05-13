@@ -2,7 +2,11 @@
 ## Installing Unity
 For getting help with installing unity, click [here](https://github.com/DamanAhuja/Security-Audit/blob/main/README.md)
 ## Package Install
-CLick on Windows in the upper bar, then click on package manager
+Get on this [website](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022) and then press "add to my assets".
+
+By this we have just now added the package to our unity assets, now it's time to import it in our project
+
+For achieving that, just follow the steps shown in the images below
 
 ![image](https://github.com/DamanAhuja/Docs/assets/142963733/cb8b477d-31c3-4e28-b010-8e51d3e874eb)
 
@@ -29,3 +33,18 @@ Look for this kind of logo in bottom right corner, and click project setup tool
 
 Click on Fix all to fix all the issues if any, and apply all to apply all the required settings
 
+## Creating the Scene
+Now as we have done all the settings, its time to add components to our scene
+
+First we will add the OVR player controller to our scene, you can search for it in the project window.
+
+Then as we need hands and controllers to interact in VR,
+
+Just search for RayExmples scene in project menu, and in this scene make the OVRCameraRig a prefab by selecting and sliding it to project menu.
+
+Then go to the original scene and Delete the already existing OVRCameraRig which is the child of the OVRPlayerController.
+
+Now just add the newly made prefab as in the place of previous OVRCameraRig.
+
+By this we are done with the setup 
+and additionally we have also setup ray interaction with it.
