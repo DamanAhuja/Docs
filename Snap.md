@@ -1,5 +1,5 @@
 # Snap interaction in unity with Oculus interaction SDK
-First we need to import the Oculus Interaction SDK in our project, you can get it from [here]()
+First we need to import the Oculus Interaction SDK in our project, you can get it from [here](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022)
 ## Setting up OVR hands and controllers
 First search for OVRPlayerController and import it to your scene
 
