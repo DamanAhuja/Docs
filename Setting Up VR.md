@@ -1,6 +1,4 @@
 # Getting Started with VR on Unity with Oculus SDK
-## Installing Unity
-For getting help with installing unity, click [here](https://github.com/DamanAhuja/Security-Audit/blob/main/README.md)
 ## Package Install
 Get on this [website](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022) and then press "add to my assets".
 
