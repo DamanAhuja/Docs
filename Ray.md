@@ -1,7 +1,7 @@
-# Setting up ray interaction in unity with Oculus Interaction SDK
+# Setting up ray interaction in unity with Oculus Integration SDK
 
-## Oculus Interaction SDK
-First import the oculus interaction SDK in the project, to get it click [here](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022)
+## Oculus Integration SDK
+First import the oculus integration SDK in the project, to get it click [here](https://assetstore.unity.com/packages/tools/integration/oculus-integration-deprecated-82022)
 
 ## Setting Up the player controller
 Search for OVRPlayerController and import it to your scene
